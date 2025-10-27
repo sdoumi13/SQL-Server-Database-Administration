@@ -1,5 +1,5 @@
 # SQL Server Database Administration: Principles and Notes
-## Based on Chapters 1 and 2 by Prof. C. El Amrani
+
 
 ### 1. Introduction to SQL Server Databases
 - **Definition**:
